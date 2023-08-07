@@ -1,0 +1,101 @@
+Task 1) 
+go through some of the other in built functions
+
+Task 2) 
+given a string for example
+str1 = "Welcome to python"
+
+check if "to" is present in "welcome to python"
+
+Task-3.1
+go through other inbuilt methods like remove(),count(),clear(),sort(),reverse()
+
+Task 3.2
+Create a list of lenght = 10 and access 5th to 8th data.
+
+
+Task-4: 2 problems!
+1)
+#Add item 70 after 60 in the following Python List
+#input
+l1 = [10, 20, [30, 40, [50, 60], 80], 90, 100]
+#output
+[10, 20, [30, 40, [50, 60, 70], 80], 90, 100]
+
+2)
+#add sublist [7,8] after 6
+#input
+l2 = [1,2,[3,4,5,6],9]
+#output
+[1,2,[3,4,5,6,[7,8]],9]
+
+Task-5
+
+code:
+dict1 = { 
+   "april_batch":{ 
+      "student":{ 
+         "name":"Mike",
+         "marks":{ 
+            "python":80,
+            "maths":70
+         }
+      }
+   }
+}
+
+Questions:
+From the above dictionary, do the following tasks
+
+access "Mike"
+access 80
+change "Mike" to "Your name"
+add ML = 80 and DL = 80 inside marks
+
+Task 6 
+Add and remove the elements from a tuple. (Refer workaroud to modify the tuples)
+
+Task7 - go through other inbuilt methods like
+difference()
+symmetric_difference()
+
+Task8 - Make a table of all the In-built data structures and Point out the differences one by one
+
+Task9
+Ask 2 numbers from users and store it in num1 and num2
+Ask user to press 1 for addition,2 for subtraction,3 for multiplication and 4 for division
+based on number given by user do the math operation
+ 
+Task 10.1 = what is the uasge of continue wiith an example.  
+
+Task 10.2 What is pass keyword, with example.
+
+Task 10.3
+using while loop print numbers from 10 to 1
+try using for loop to loop over tuples,sets and dictionaries
+
+Task10.4 : Go through
+reduce()
+zip()
+enumerate()
+
+------------------------------------------------------
+
+ALL THE BELOW TASK MUST BE DONE FOR BOTH DL & ML.
+
+Task 1:
+Replicate all the code given in the video lectures.
+
+Task 2:
+task data of your choice from open source and train all tyes of ML models.
+
+Task 3:
+Upload the files to GitHub.
+
+
+
+
+
+
+
+
